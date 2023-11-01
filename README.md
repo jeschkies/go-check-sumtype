@@ -14,7 +14,7 @@ This work was inspired by our code at
 ## Installation
 
 ```go
-$ go get github.com/alecthomas/go-check-sumtype
+$ go get github.com/alecthomas/go-check-sumtype/cmd/go-check-sumtype
 ```
 
 For usage info, just run the command:
